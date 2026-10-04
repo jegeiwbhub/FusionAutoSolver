@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fusen Auto Solver</string>
+    <string name="accessibility_desc">Reads the puzzle board and performs the best block placements when Auto Solve is pressed.</string>
+</resources>
